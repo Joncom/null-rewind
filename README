@@ -1,0 +1,2 @@
+Demonstrates how to break ig.Animation.rewind() by using ig.Animation.gotoFrame
+within an entities init() function.
